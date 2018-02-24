@@ -1,0 +1,35 @@
+article{
+	width: 100%;
+	text-align: center;
+}
+
+h4, #main p{
+	color: #A19D9D;
+	font-size: 16px;
+	font-style: italic;
+}
+
+aside figure{
+	
+	width: 100%;
+	box-sizing: border-box;
+}
+
+aside figure img{
+	border-radius: 12px;
+	margin: 0px;
+	box-shadow: #cccccc 5px 5px;
+}
+
+article, aside{
+	padding: 20px 10px;
+}
+
+aside a{
+	color: #E0A11B;
+	text-decoration-color: #E0A11B;
+}
+
+aside a span{
+	font-weight: bolder;
+}

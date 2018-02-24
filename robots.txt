@@ -1,0 +1,9 @@
+User-Agent: *
+
+Disallow: /public/docs/
+Disallow: /public/error/
+Disallow: /public/images/
+Disallow: /public/multimedia/
+Disallow: /private/
+
+Sitemap: http://www.rodriguezsanchezadrianjavier.com/sitemap.xml

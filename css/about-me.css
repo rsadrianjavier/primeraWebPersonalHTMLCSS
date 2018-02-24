@@ -1,0 +1,42 @@
+h4, #main p{font-size: 16px;font-style: italic;}
+
+h4{color: #2F8CF2;}
+
+#main p{color: #A19D9D;}
+#main article p{padding: 0 10px 0 20px;line-height: 1.5;}
+
+aside{
+	padding: 20px 10px;
+	text-align: center;
+}
+
+#foto-adrian, #bebee, #linkedin{
+	border-radius: 12px;
+	margin: 0px;
+	box-shadow: #cccccc 5px 5px;
+	max-height: 200px;
+}
+
+#bebee, #linkedin{
+	width: 170px;
+	display: block;
+	padding-top: 15px;
+	margin: 0px auto;
+}
+#bebee a{
+	color: #E0A11B;
+	text-decoration: none;
+}
+#linkedin{
+	padding-bottom: 10px;
+}
+#linkedin a{
+	color: #cccccc;
+	text-decoration: none;
+}
+	
+
+
+article{box-sizing: border-box;padding: 20px 10px 20px 50px;}
+@media screen and (max-width: 600px) {
+	article{padding: 0px 10px 20px 20px;}}

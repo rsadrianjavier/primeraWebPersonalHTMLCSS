@@ -1,0 +1,15 @@
+h4,h5,#main p{
+	color: #A19D9D;
+	font-size: 16px;
+	font-style: italic;
+}
+
+#desarrollo-entradas{
+	box-sizing: border-box;
+	color: #A19D9D;
+	font-size: 16px;
+	padding: 20px 10px;
+	text-align: center;
+	margin: 0px auto;
+	width: 100%;
+}

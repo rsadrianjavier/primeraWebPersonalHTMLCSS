@@ -1,0 +1,63 @@
+section{
+	max-width: 560px;
+	box-sizing: border-box;
+	color: #A19D9D;
+	font-size: 16px;
+	text-align: left;
+	width: 80%;
+	padding-bottom: 40px;
+}
+
+#nombre-email{
+	margin: 15px 0;
+	box-sizing: border-box;
+}
+
+#nombre, #email{
+	width: 47%;
+	padding: 10px;
+	border-radius: 5px;
+	border: solid 1px #cccccc;
+	box-sizing: border-box;
+}
+
+#email{
+	float: right;
+}
+
+textarea, #politica-de-privacidad{
+	width: 100%;
+	margin: 20px 0; 
+}
+
+textarea{
+	border: solid 1px #cccccc;
+	border-radius: 5px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+	
+button{
+	background-color: #2F8CF2;
+	border-radius: 15px;
+	border: none;
+	color: white;
+	padding: 15px 0;
+	width: 100%;
+}
+
+#boton-enviar{
+	font-size: 20px;
+}
+#boton-enviar:hover{
+	color: red;
+}
+
+@media screen and (max-width: 520px) {
+	#main p{
+		text-align: justify;
+	}
+	#mailto{
+		font-size: 10px;
+	}
+}
